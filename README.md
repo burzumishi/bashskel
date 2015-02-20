@@ -1,0 +1,2 @@
+# bashskel
+Bash Skeleton (BSK)
